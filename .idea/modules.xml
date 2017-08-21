@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dbbyte.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dbbyte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dbbyte_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dbbyte_main.iml" group="com.dbbyte" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dbbyte_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dbbyte_test.iml" group="com.dbbyte" />
+    </modules>
+  </component>
+</project>
